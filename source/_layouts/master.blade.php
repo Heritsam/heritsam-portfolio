@@ -46,8 +46,8 @@
                     <div class="col-6 col-md">
                         <h5>Contacts</h5>
                         <ul class="list-unstyled text-small">
-                            <li><a class="text-muted" href="#">Email</a></li>
-                            <li><a class="text-muted" href="#">WhatsApp</a></li>
+                            <li><a class="text-muted" href="mailto:ariqhm@gmail.com" target="_blank">Email</a></li>
+                            <li><a class="text-muted" href="http://wa.me/6281808625505" target="_blank">WhatsApp</a></li>
                         </ul>
                     </div>
                     <div class="col-6 col-md">
@@ -58,12 +58,6 @@
                             <li><a class="text-muted" target="_blank" href="http://medium.com/@heritsam">Medium</a></li>
                             <li><a class="text-muted" target="_blank" href="https://www.linkedin.com/in/ariq-heritsa-maalik-9b7968167">LinkedIn</a></li>
                         </ul>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-12">
-                        
                     </div>
                 </div>
             </footer>
