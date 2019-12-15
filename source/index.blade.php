@@ -112,7 +112,7 @@
         <h1>Find me</h1>
         <div class="row">
             <div class="col-md-6 mb-4">
-                <p class="h5 mt-3">We humans are social beings; so why don't you try to contacting me and share your problems?</p>
+                <p class="h5 mt-3">Curious about what i am doing online?</p>
             </div>
 
             <div class="col-md-6">

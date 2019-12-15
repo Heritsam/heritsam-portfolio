@@ -5,8 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Ariq Heritsa</title>
+    <title>HERITSAM &ndash; Mobile / Web Developer</title>
 
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+    
     <!-- Scripts -->
     <script src="{{ mix('js/main.js', 'assets/build') }}" defer></script>
 
