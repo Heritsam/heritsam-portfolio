@@ -220,7 +220,7 @@
         <h1 class="text-center">This Site Is Powered By</h1>
 
         <div class="row justify-content-center my-5">
-            <div class="col-md-3">
+            <div class="col-md-3 mb-5">
                 <div class="h-50 d-flex align-items-center justify-content-center mb-3">
                     <img src="assets/images/jigsaw.png" alt="jigsaw" class="img-fluid w-50">
                 </div>
@@ -228,7 +228,7 @@
                 <h4>Jigsaw</h4>
                 <p>Static site generator for Laravel developers.</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 mb-5">
                 <div class="h-50 d-flex align-items-center justify-content-center mb-3">
                     <img src="assets/images/bootstrap.png" alt="bootstrap" class="img-fluid w-25">
                 </div>
@@ -237,7 +237,7 @@
                 <p>The most popular CSS Framework for developing responsive and mobile-first websites.</p>
             </div>
 
-            <div class="col-md-3">
+            <div class="col-md-3 mb-5">
                 <div class="h-50 d-flex align-items-center justify-content-center mb-3">
                     <img src="assets/images/netlify.png" alt="netlify" class="img-fluid w-25">
                 </div>
@@ -246,6 +246,12 @@
                 <p>A service for quickly rolling out static websites.</p>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="py-5 bg-white">
+    <div class="container text-center mb-3">
+        <h1 class="display-3">Gr<span class="text-primary">á</span>cias<span class="text-primary-light">!</span></h1>
     </div>
 </section>
 
