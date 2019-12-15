@@ -112,26 +112,57 @@
         <h1>Find me</h1>
         <div class="row">
             <div class="col-md-6 mb-4">
-                <p class="h5 mt-3">Curious about what i am doing online?</p>
+                <p class="h5 mt-3">In case you are curious about what i am doing online.</p>
             </div>
 
             <div class="col-md-6">
-                <h4 class="text-primary">Email Address</h4>
-                <ul class="list-unstyled">
-                    <li>
-                        <a href="mailto:ariqhm@outlook.com" target="_blank" class="text-muted">ariqhm@outlook.com (work)</a>
-                    </li>
-                    <li>
-                        <a href="mailto:ariqhm@gmail.com" target="_blank" class="text-muted">ariqhm@gmail.com</a>
-                    </li>
-                </ul>
+                <div class="row mb-4">
+                    <div class="col-auto">
+                        <i class="fab fa-github fa-2x text-primary-light"></i>
+                    </div>
 
-                <h4 class="text-primary">WhatsApp</h4>
-                <ul class="list-unstyled">
-                    <li>
-                        <a href="http://wa.me/6281808625505" target="_blank" class="text-muted">+62 818 0862 5505</a>
-                    </li>
-                </ul>
+                    <div class="col">
+                        <h4 class="text-primary">
+                            <a href="http://github.com/Heritsam" target="_blank">Github</a>
+                        </h4>
+                    </div>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col-auto">
+                        <i class="fab fa-instagram fa-2x text-primary-light"></i>
+                    </div>
+
+                    <div class="col">
+                        <h4 class="text-primary">
+                            <a href="http://instagram.com/heritsam_" target="_blank">Instagram</a>
+                        </h4>
+                    </div>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col-auto">
+                        <i class="fab fa-medium fa-2x text-primary-light"></i>
+                    </div>
+
+                    <div class="col">
+                        <h4 class="text-primary">
+                            <a href="http://medium.com/@heritsam" target="_blank">Medium</a>
+                        </h4>
+                    </div>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col-auto">
+                        <i class="fab fa-linkedin fa-2x text-primary-light"></i>
+                    </div>
+
+                    <div class="col">
+                        <h4 class="text-primary">
+                            <a href="https://www.linkedin.com/in/ariq-heritsa-maalik-9b7968167" target="_blank">LinkedIn</a>
+                        </h4>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -148,7 +179,7 @@
             <div class="col-md-6 mb-4">
                 <div class="row mb-4">
                     <div class="col-auto">
-                        <i class="fas fa-envelope fa-2x"></i>
+                        <i class="fas fa-envelope fa-2x text-white-50"></i>
                     </div>
 
                     <div class="col">
@@ -166,7 +197,7 @@
 
                 <div class="row mb-4">
                     <div class="col-auto">
-                        <i class="fab fa-whatsapp fa-2x"></i>
+                        <i class="fab fa-whatsapp fa-2x text-white-50"></i>
                     </div>
 
                     <div class="col">

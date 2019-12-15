@@ -56,7 +56,7 @@
                             <li><a class="text-muted" target="_blank" href="http://github.com/Heritsam">Github</a></li>
                             <li><a class="text-muted" target="_blank" href="http://instagram.com/heritsam_">Instagram</a></li>
                             <li><a class="text-muted" target="_blank" href="http://medium.com/@heritsam">Medium</a></li>
-                            <li><a class="text-muted" target="_blank" href="">LinkedIn</a></li>
+                            <li><a class="text-muted" target="_blank" href="https://www.linkedin.com/in/ariq-heritsa-maalik-9b7968167">LinkedIn</a></li>
                         </ul>
                     </div>
                 </div>
