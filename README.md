@@ -1,3 +1,3 @@
 # Heritsam Portfolio
 
-> http://heritsam.me/
+> http://heritsam.space/
