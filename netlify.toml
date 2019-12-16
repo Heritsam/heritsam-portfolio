@@ -8,3 +8,4 @@ environment = { PHP_VERSION = "7.2" }
   from = "http://unruffled-haibt-2f61f3.netlify.com/*"
   to = "http://heritsam.space/:splat"
   status = 301
+  force = true
