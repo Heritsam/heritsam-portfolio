@@ -3,3 +3,8 @@
 command = "npm run production"
 publish = "build_production"
 environment = { PHP_VERSION = "7.2" }
+
+[[redirects]]
+  from = "http://unruffled-haibt-2f61f3.netlify.com/*"
+  to = "http://heritsam.space/:splat"
+  status = 301
